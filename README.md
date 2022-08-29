@@ -1,16 +1,13 @@
-# personal_expenses
+# Personal Expenses Monitor App (Flutter)
 
-A new Flutter project.
+![Personal Expenses Monitor](https://github.com/madhurajayashanka/flutter_personal_expenses_app/blob/master/flutter_personal_expenses_app.jpg?raw=true)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## A Simple Expense Tracker Mobile App built using Flutter and Dart following a tutorial and got some exposure to mobile development. 
 
-A few resources to get you started if this is your first Flutter project:
+- Repository link - https://github.com/madhurajayashanka/flutter_personal_expenses_app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Portfolio - https://madhura.info/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Linkedin - https://www.linkedin.com/in/madhurajayashanka/
+
